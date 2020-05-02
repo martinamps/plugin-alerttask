@@ -1,5 +1,5 @@
-Set your accountSid and serviceBaseURL in /public/appConfig.js
+# plugin-alert-task
 
-To build, run npm run build.
+Plays the cowbell.mp3 tune when a reservation is created
 
-To deploy, copy /build/plugin-alerttask.js to your assets directory
+Enrolled into PS platform
